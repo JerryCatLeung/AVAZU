@@ -1,4 +1,13 @@
-Random Walker's solution for Avazu Click-Through rate prediction
+# create a new repository on the command line
+echo "# Test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M 'main'
+git remote add origin git@github.com:JerryCatLeung/Test.git
+git push -u origin 'main'
+
+Avazu Click-Through rate prediction
 
 The introduction of our approach could be found in doc.pdf.
 
